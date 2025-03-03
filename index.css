@@ -82,6 +82,10 @@ a {
     width: 100px;
 }
 
+li {
+    list-style-type: none;
+}
+
 /* Info Section */
 .info-section {
     margin: 250px auto;
@@ -143,6 +147,7 @@ a {
     margin: 0 auto;
     padding: 40px;
     border: 2px solid #333333;
+    border-radius: 24px;
 }
 .about-heading {
     margin: 0;
